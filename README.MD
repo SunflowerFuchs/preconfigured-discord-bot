@@ -1,5 +1,4 @@
-# Discord Bot pre-configurations
+# Rat Pack discord bot
 
-Modified installations of [sunflowerfuchs/discord-bot](https://github.com/SunflowerFuchs/discord-bot) for ease of deployment.
+Modified installation of [sunflowerfuchs/discord-bot](https://github.com/SunflowerFuchs/discord-bot) made for the Rat Pack discord server.
 
-Check the branches to see what variants are available.
