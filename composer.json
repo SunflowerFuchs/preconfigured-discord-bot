@@ -1,0 +1,12 @@
+{
+	"name": "sunflowerfuchs/discord-tiktok-only-bot",
+	"description": "A plugin for sunflowerfuchs/discord-bot that adds improved tiktok embedding.",
+	"type": "project",
+	"license": "MIT",
+	"readme": "./README.MD",
+	"minimum-stability": "dev",
+	"require": {
+		"sunflowerfuchs/discord-bot": "^v0.1.0",
+		"sunflowerfuchs/discord-tiktok-plugin": "^v0.1"
+	}
+}
