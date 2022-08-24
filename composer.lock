@@ -1734,16 +1734,16 @@
         },
         {
             "name": "sunflowerfuchs/discord-bot",
-            "version": "v0.1.0",
+            "version": "v0.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/SunflowerFuchs/discord-bot.git",
-                "reference": "6e0cfa2f75f4e1ac818e21b2cce6fe11ccd3de2c"
+                "reference": "c682505283a7a0890dccbd5cb76aa04719f6d137"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/SunflowerFuchs/discord-bot/zipball/6e0cfa2f75f4e1ac818e21b2cce6fe11ccd3de2c",
-                "reference": "6e0cfa2f75f4e1ac818e21b2cce6fe11ccd3de2c",
+                "url": "https://api.github.com/repos/SunflowerFuchs/discord-bot/zipball/c682505283a7a0890dccbd5cb76aa04719f6d137",
+                "reference": "c682505283a7a0890dccbd5cb76aa04719f6d137",
                 "shasum": ""
             },
             "require": {
@@ -1772,9 +1772,9 @@
             "description": "An easily extendable discord bot, written in PHP",
             "support": {
                 "issues": "https://github.com/SunflowerFuchs/discord-bot/issues",
-                "source": "https://github.com/SunflowerFuchs/discord-bot/tree/v0.1.0"
+                "source": "https://github.com/SunflowerFuchs/discord-bot/tree/v0.1.1"
             },
-            "time": "2022-08-24T15:37:53+00:00"
+            "time": "2022-08-24T21:00:13+00:00"
         },
         {
             "name": "sunflowerfuchs/discord-giveaway-plugin",
